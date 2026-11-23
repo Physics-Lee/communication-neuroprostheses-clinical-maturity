@@ -1,0 +1,6 @@
+# scratch area (SVG snapshots, verification screenshots)
+tmp/
+
+# python
+__pycache__/
+*.pyc
